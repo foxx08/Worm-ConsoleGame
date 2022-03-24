@@ -1,5 +1,6 @@
 // A simple variant of the game Snake
 //
+
 // Used for teaching in classes
 //
 // Author:

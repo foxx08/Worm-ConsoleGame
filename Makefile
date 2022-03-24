@@ -1,6 +1,6 @@
 ############################################################
 # General purpose makefile
-#
+
 # Works for all C-projects where
 # - binaries are compiled into sub-dir bin
 # - binaries are created from a multiple c-sources
