@@ -1,5 +1,13 @@
-<h1> WormConsoleGame </h1>
+New in this version
 
-Worm is a twist on the classic Snake
 
-![image](https://user-images.githubusercontent.com/92452678/159981886-6a7128de-b439-4ca4-83fd-0c0794ee7f9e.png)
+board_model.c:
+- Introduction of a board structure for detection of collisions
+    * with barriers
+    * with the worm itself
+- Introduction of food items
+- Intro of a level with barriers (fixed, not from file)
+
+worm_model.c:
+- Worm is growing
+- Enhanced display of Worm (different symbols for head, inner and tail elements)
